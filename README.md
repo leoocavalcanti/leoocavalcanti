@@ -1,6 +1,9 @@
-## Olá, eu sou Leonardo Cavalcanti!
+<h3>Olá, eu sou Leonardo Cavalcanti!</h3>
 
-Atualmente, estou estudando e me desenvolvendo na área do front-end com ReactJs e Typescript.
+Sou estudante de front-end me desenvolvendo com ReactJs e TypeScript.
+
+## 
+
 
 </br>
 
@@ -26,7 +29,8 @@ Atualmente, estou estudando e me desenvolvendo na área do front-end com ReactJs
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-</br>
+## 
+
 
   <div align="center"><h3>CONTATO</h3></div>
   </br>
