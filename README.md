@@ -19,7 +19,6 @@ Sou estudante de front-end, atualmente me desenvolvendo com ReactJs e TypeScript
   
   
   <div align="center"><h3>HABILIDADES</h3></div>
-  </br>
   
 <div align="center"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
