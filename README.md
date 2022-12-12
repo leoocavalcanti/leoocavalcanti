@@ -1,10 +1,20 @@
-<h3>Olá, eu sou Leonardo Cavalcanti.</h3>
+<div align="center">
+  <h3>Olá, eu sou Leonardo Cavalcanti!</h3>
 
-Sou estudante de front-end, atualmente me desenvolvendo com ReactJs e TypeScript.
+Sou estudante de front-end, atualmente me desenvolvendo com ReactJs e TypeScript 📚
+  
+  <div align="center"> 
+  <a href="https://www.linkedin.com/in/leoocavalcanti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:leonardohenrique521@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/leoo.cavalcanti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-## 
+ 
+</div>
 
+<hr/>
 
+<img height="260" width="260" src="https://user-images.githubusercontent.com/98703816/206942822-269afeff-a7bb-4106-ba91-7e6437135d70.png"/>
+</div>
 </br>
 
 <div align="center">
@@ -14,9 +24,12 @@ Sou estudante de front-end, atualmente me desenvolvendo com ReactJs e TypeScript
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoocavalcanti&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  
+  
 </br>
   
   
+  <hr/>
   
   <div align="center"><h3>HABILIDADES</h3></div>
   
@@ -28,17 +41,6 @@ Sou estudante de front-end, atualmente me desenvolvendo com ReactJs e TypeScript
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-## 
-
-
-  <div align="center"><h3>CONTATO </h3></div>
-  </br>
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/leoocavalcanti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:leonardohenrique521@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/leoo.cavalcanti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  
 </div>
