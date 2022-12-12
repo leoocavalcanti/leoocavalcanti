@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Olá, eu sou Leonardo Cavalcanti!</h3>
+  <h3>Olá, eu sou Leonardo Cavalcanti.</h3>
 
 Sou estudante de front-end, atualmente me desenvolvendo com ReactJs e TypeScript 📚
   
