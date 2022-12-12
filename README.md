@@ -16,7 +16,7 @@ Sou estudante de front-end, atualmente me desenvolvendo com ReactJs e TypeScript
 </div>
 
 <hr/>
-
+<div align="center">
 <img height="260" width="260" src="https://user-images.githubusercontent.com/98703816/206942822-269afeff-a7bb-4106-ba91-7e6437135d70.png"/>
 </div>
 </br>
