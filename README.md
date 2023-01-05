@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>Olá, eu sou Leonardo Cavalcanti. 📚</h3>
+  <h3>Hello, i'am Leonardo Cavalcanti! 📚</h3>
 
-Sou estudante de front-end, atualmente me desenvolvendo com ReactJs e TypeScript.
+I'am a software developer, currently using ReactJs and Spring Boot on my projects.
   
   <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -37,7 +37,7 @@ Sou estudante de front-end, atualmente me desenvolvendo com ReactJs e TypeScript
   
   <hr/>
   
-  <div align="center"><h3>CONTATO</h3></div>
+  <div align="center"><h3>CONTACT</h3></div>
   
 <div align="center"> 
   <a href="https://www.linkedin.com/in/leoocavalcanti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
