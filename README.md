@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hello, i'am Leonardo Cavalcanti! 📚</h3>
 
-I'am a full stack developer, currently using ReactJs, NextJs, Spring Boot and Node (NestJs) in my web projects.
+I'am a software developer, currently using ReactJs, NextJs, Spring Boot and Node (NestJs) in my web projects.
   
   <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
