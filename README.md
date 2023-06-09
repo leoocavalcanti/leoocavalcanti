@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>Hello, i'am Leonardo Cavalcanti! 📚</h3>
+  <h3>Hello, i'am Leonardo Cavalcanti! 💻</h3>
 
-I'am a full stack developer, currently using ReactJs, NextJs, Spring Boot and Node (NestJs) in my web projects.
+I am an undergraduate student in Computer Science at the Federal Rural University of Pernambuco. I work in the field of software engineering, and currently, I I hold the position of full-stack developer using NodeJs (NestJs) with ReactJs and NextJs. I also have experience with Java, specifically with the Spring ecosystem. I am an enthusiast of microservices architecture and cloud platforms such as AWS.
   
   <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
