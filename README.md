@@ -15,6 +15,7 @@ I am an undergraduate student in Computer Science at the Federal Rural Universit
     <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        <img align="center" alt="Node" height="30" width="40" src="https://skillicons.dev/icons?i=kubernetes">
 </div>
 
  
