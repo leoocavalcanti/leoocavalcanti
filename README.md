@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>Hello, i'am Leonardo Cavalcanti! 💻</h3>
+  <h3>About Leonardo Cavalcanti</h3>
 
-I am an undergraduate student in Computer Science at the Federal Rural University of Pernambuco. I work in the field of software engineering, and currently, I hold the position of full-stack developer using NodeJs (NestJs) with ReactJs and NextJs. I also have experience with Java, specifically with the Spring ecosystem. I am an enthusiast of microservices architecture and cloud platforms such as AWS.
+Undergraduate student in Computer Science at the Federal Rural University of Pernambuco. <br/> <br/>Developer in the field of software engineering, and currently, hold the position of fullstack developer at <a href="https://www.linkedin.com/company/isitics/" target="_blank">SENAI - ISI-TICs</a>, company linked to <a href="https://www.linkedin.com/company/portodigital/">Porto Digital</a> using <b>Typescript.</b> <br/> <br/> Also has experience with <b>Java</b>, specifically with the <b>Spring ecosystem.</b> <br/>  <br/> Enthusiast of <b>microservices architecture and cloud services.</b>
   
   <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
