@@ -1,7 +1,11 @@
 <div align="center">
   <h3>About Leonardo Cavalcanti</h3>
 
-Undergraduate student in Computer Science at the Federal Rural University of Pernambuco. <br/> <br/>Developer in the field of software engineering, and currently, hold the position of fullstack developer using <b>Typescript</b>. <br/> <br/> Also has experience with <b>Java</b>, specifically with the <b>Spring ecosystem.</b> <br/>  <br/> Enthusiast of <b>microservices architecture and cloud services.</b>
+Undergraduate student in Computer Science at the Federal Rural University of Pernambuco. <br/> <br/>I’m a Software Developer with 3+ years of experience building scalable, reliable and well-structured applications. I work mainly with Node.js/NestJS, React/Next.js, and Java/Spring, applying design patterns, clean code, and modular architecture to deliver maintainable solutions.
+
+I enjoy creating APIs and services that scale, and I’m comfortable working with cloud environments, Docker, and message queues like RabbitMQ. I’m always looking to improve system design, performance, and developer experience.
+
+Passionate about learning, solving real problems, and contributing to high-impact teams. Always open to new challenges and opportunities to grow.
   
   <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
