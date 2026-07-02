@@ -1,7 +1,7 @@
 <div align="center">
   <h3>About Leonardo Cavalcanti</h3>
 
-I’m a Software Developer with experience building scalable, reliable and well-structured applications. I work mainly with Node.js/NestJS, React/Next.js, and Java/Spring, applying design patterns, clean code, and modular architecture to deliver maintainable solutions.
+I’m a Senior Software Engineer with experience building scalable, reliable and well-structured applications. I work mainly with Node.js/NestJS, React/Next.js, and Java/Spring, applying design patterns, clean code, and modular architecture to deliver maintainable solutions.
 
 I enjoy creating APIs and services that scale, and I’m comfortable working with cloud environments, Docker, and message queues like RabbitMQ. I’m always looking to improve system design, performance, and developer experience.
 
