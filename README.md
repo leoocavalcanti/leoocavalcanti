@@ -5,7 +5,7 @@ I'm a Senior Fullstack Software Engineer with experience building scalable, high
 
 Throughout my career, I've designed and maintained microservices, REST and SOAP integrations, and distributed systems that support mission-critical business processes. I've worked on large-scale financial platforms, including credit renegotiation systems and credit card services, implementing complex business rules while focusing on scalability, reliability, maintainability, experienced in legacy system modernization and refactoring.
 
-I have hands-on experience with Clean Architecture, Hexagonal Architecture, SOLID principles, Design Patterns, Docker, PostgreSQL, RabbitMQ, Redis, CI/CD pipelines, and AWS. I enjoy solving complex engineering challenges, improving system performance, and building software that delivers real business value.
+I have hands-on experience with Clean Architecture, Hexagonal Architecture, SOLID principles, Design Patterns, Docker, PostgreSQL, RabbitMQ, Redis, CI/CD pipelines, and AWS. I enjoy solving complex engineering challenges, improving system performance, and leveraging AI tools to improve developer productivity and software quality.
   
   <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
