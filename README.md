@@ -1,11 +1,14 @@
 <div align="center">
   <h3>About Leonardo Cavalcanti</h3>
 
-I’m a Senior Software Engineer with experience building scalable, reliable and well-structured applications. I work mainly with Node.js/NestJS, React/Next.js, and Java/Spring, applying design patterns, clean code, and modular architecture to deliver maintainable solutions.
+I'm a Senior Fullstack Software Engineer with experience building scalable, high-performance applications for the banking, fintech, and retail industries. My expertise includes developing backend services with Node.js/NestJS and Java/Spring Boot, as well as modern frontend applications with React and Next.js.
 
-I enjoy creating APIs and services that scale, and I’m comfortable working with cloud environments, Docker, and message queues like RabbitMQ. I’m always looking to improve system design, performance, and developer experience.
+Throughout my career, I've designed and maintained microservices, REST and SOAP integrations, and distributed systems that support mission-critical business processes. I've worked on large-scale financial platforms, including credit renegotiation systems and credit card services, implementing complex business rules while focusing on scalability, reliability, and maintainability.
 
-Passionate about learning, solving real problems, and contributing to high-impact teams. Always open to new challenges and opportunities to grow.
+I have hands-on experience with Clean Architecture, Hexagonal Architecture, SOLID principles, Design Patterns, Docker, PostgreSQL, RabbitMQ, Redis, CI/CD pipelines, and AWS. I enjoy solving complex engineering challenges, improving system performance, and building software that delivers real business value.
+
+I'm passionate about continuous learning, software architecture, and collaborating with high-performing teams to build reliable, scalable, and well-engineered products.
+
   
   <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
