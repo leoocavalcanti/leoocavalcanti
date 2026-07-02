@@ -3,7 +3,7 @@
 
 I'm a Senior Fullstack Software Engineer with experience building scalable, high-performance applications for the banking, fintech, and retail industries. My expertise includes developing backend services with Node.js/NestJS and Java/Spring Boot, as well as modern frontend applications with React and Next.js.
 
-Throughout my career, I've designed and maintained microservices, REST and SOAP integrations, and distributed systems that support mission-critical business processes. I've worked on large-scale financial platforms, including credit renegotiation systems and credit card services, implementing complex business rules while focusing on scalability, reliability, and maintainability.
+Throughout my career, I've designed and maintained microservices, REST and SOAP integrations, and distributed systems that support mission-critical business processes. I've worked on large-scale financial platforms, including credit renegotiation systems and credit card services, implementing complex business rules while focusing on scalability, reliability, maintainability, experienced in legacy system modernization and refactoring.
 
 I have hands-on experience with Clean Architecture, Hexagonal Architecture, SOLID principles, Design Patterns, Docker, PostgreSQL, RabbitMQ, Redis, CI/CD pipelines, and AWS. I enjoy solving complex engineering challenges, improving system performance, and building software that delivers real business value.
   
